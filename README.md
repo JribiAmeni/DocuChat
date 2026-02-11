@@ -89,10 +89,6 @@ Français: "Quel est le budget total?"
 العربية: "ما هي النقاط الرئيسية؟"
 ```
 
-## 📝 License
-
-MIT License - see [LICENSE](LICENSE)
-
 ## 🙏 Acknowledgments
 
 - [Groq](https://groq.com/) - LLM API
